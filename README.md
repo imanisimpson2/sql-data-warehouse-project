@@ -19,3 +19,7 @@ Develop SQL-Based analytics to deliver detailsed insights into:
     Sales Trends
   </li>
 </ul>
+
+<h2>Licensing</h2>
+
+<h2>About Me</h2>
